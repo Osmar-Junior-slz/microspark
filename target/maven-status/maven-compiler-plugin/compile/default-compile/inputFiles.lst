@@ -1,0 +1,9 @@
+/home/osmar/eclipse-workspace/customer/src/main/java/customer/customer/endpoint/CustomerResources.java
+/home/osmar/eclipse-workspace/customer/src/main/java/customer/customer/dao/CustomerDao.java
+/home/osmar/eclipse-workspace/customer/src/main/java/customer/customer/service/CustomerService.java
+/home/osmar/eclipse-workspace/customer/src/main/java/customer/customer/model/CustomerModel.java
+/home/osmar/eclipse-workspace/customer/src/main/java/customer/customer/endpoint/AdresssResources.java
+/home/osmar/eclipse-workspace/customer/src/main/java/customer/customer/model/AdressModel.java
+/home/osmar/eclipse-workspace/customer/src/main/java/customer/customer/bancodados/Conexao.java
+/home/osmar/eclipse-workspace/customer/src/main/java/customer/customer/dao/AdressDao.java
+/home/osmar/eclipse-workspace/customer/src/main/java/customer/customer/App.java
